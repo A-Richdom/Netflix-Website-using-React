@@ -2,6 +2,7 @@ import React from 'react'
 import netflixLogo from '../assets/newLogo.png'
 import Button from '../components/Button'
 
+
 const Navbar = () => {
 
     const navBarStyle = {

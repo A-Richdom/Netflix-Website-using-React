@@ -6,14 +6,13 @@ import SearchContainer from '../components/SearchContainer';
 
 const LandingPage = () => {
   return (
-    <div className='container landing '>
+    <div className='containe landing'>
 
       <Navbar/>
       <LandingText/>
       <SearchContainer/>
       
-      
-
+    
       {/* <Texts text='Unlimited movies, TV shows, and more' style={{fontSize:'48px', fontWeight: 'bold', color: 'white'}}/> */}
 
     
